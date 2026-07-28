@@ -1,22 +1,25 @@
 # Student Management System
 
-A Python-based application to manage student records.
+## Description
+A beginner Python application to manage student records.
 
 ## Features
 - Add Student
 - View Students
-- Search Student
-- Update Student
-- Delete Student
 
 ## Technologies Used
-- Python
-- CSV
+- Python 3
+- CSV Module
+
+## Files
+- main.py
+- students.csv
+- README.md
 
 ## How to Run
-1. Install Python
-2. Run `main.py`
+1. Open the project.
+2. Run:
+   python main.py
 
-## Future Improvements
-- GUI using Tkinter
-- Database support with SQLite
+## Author
+G. Sunidhi
